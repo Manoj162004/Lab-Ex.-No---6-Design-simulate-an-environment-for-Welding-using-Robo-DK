@@ -93,7 +93,14 @@ risk of interfering with the robot.
 5. Now the robot retracts normal to the welding path and then straight up
 6. ![image](https://user-images.githubusercontent.com/36288975/173730741-29331e12-e805-44da-bc71-798894720348.png)
 
+### Simulation :
+![1](https://github.com/Manoj162004/Lab-Ex.-No---6-Design-simulate-an-environment-for-Welding-using-Robo-DK/assets/120365042/3ad89ccd-0997-4b57-9da1-b17c63f427d7)
+![2](https://github.com/Manoj162004/Lab-Ex.-No---6-Design-simulate-an-environment-for-Welding-using-Robo-DK/assets/120365042/e799c878-e2bb-4494-b849-e90a28e2b284)
+![7](https://github.com/Manoj162004/Lab-Ex.-No---6-Design-simulate-an-environment-for-Welding-using-Robo-DK/assets/120365042/7caa36f8-4b45-490e-8d55-38f1b2a12891)
+![8](https://github.com/Manoj162004/Lab-Ex.-No---6-Design-simulate-an-environment-for-Welding-using-Robo-DK/assets/120365042/00504667-d6b1-4151-bdee-0adf45b1ad09)
 
-### Results of simulation 
+### Results :
+
+Thus, an environment for welding operation using robodk is Designed & simulated.
 
 
